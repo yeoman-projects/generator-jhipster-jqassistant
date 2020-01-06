@@ -1,0 +1,2 @@
+hello jqassistant!
+It's dummy.txt

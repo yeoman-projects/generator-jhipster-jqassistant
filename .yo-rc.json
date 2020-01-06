@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "murdos",
+      "authorName": "Aurélien Mino",
+      "authorEmail": "aurelien.mino@gmail.com",
+      "authorUrl": "https://github.com/murdos"
+    }
+  }
+}
