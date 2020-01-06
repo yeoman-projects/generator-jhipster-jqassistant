@@ -1,6 +1,6 @@
 {
   "name": "generator-jhipster-jqassistant",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Setup jQAssistant for your JHipster application",
   "keywords": [
     "yeoman-generator",
